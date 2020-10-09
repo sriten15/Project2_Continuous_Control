@@ -24,9 +24,22 @@ WEIGHT_DECAY = 0.00        # L2 weight decay
 LEARN_FREQ_in_STEP = 5        # learning timestep interval
 LEARN_COUNT   = 1        # number of learning passes
 
-Conclustion
+Conclusion
 
 The problem was solved in 100 episodes for score of over 30+. The plot for rewards is shared below:
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
